@@ -11,7 +11,7 @@ This is a simple Vue starter WordPress Plugin. I was trying to stand up basic sk
 
 ## About Author
 
-My name is Shamim. I'm working over 6+ years on Web Development. Basically i'm highly intersted on Web Programming. In this project i just trying to stand up basic mockup of Sanctum API. 
+My name is Shamim. I'm working over 6+ years on Web Development. Basically i'm highly intersted on Web Programming. 
 
 
 ### Project Moduels
